@@ -67,8 +67,12 @@ sudo systemctl status cassandra
 Es importante obtener `active (running)`.
 
 
+# Inicio de Servicios de Apache Cassandra 
+```
+sudo service cassandra start
+```
+## Iniciar Conexión Cassandra  
 
-# Iniciar Conexión Cassandra  
 Para comenzar, es necesario escribir `cqlsh`
 
 
