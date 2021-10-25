@@ -68,6 +68,26 @@ Es importante obtener `active (running)`.
 
 
 
+# Iniciar Conexión Cassandra  
+Para comenzar, es necesario escribir `cqlsh`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
