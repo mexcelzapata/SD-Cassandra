@@ -51,9 +51,20 @@ Instalamos Cassandra con el comando:
 
 ```
 sudo apt install Cassandra
-
 ```
 
+Validamos la instalacion con 
+
+```
+nodetool status
+```
+
+Verificamos el estado de Cassandra:
+
+```
+sudo systemctl status cassandra
+```
+Es importante obtener `active (running)`.
 
 
 
