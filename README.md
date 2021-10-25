@@ -2,7 +2,7 @@
 Para poder instalar y dejar arriba el sistema de base de datos no SQL "Casandra" en un entorno Linux es necesario poder instalar las siguientes dependencias:
 
 ## Paso 1: Instalación de Dependencias
-###Instalar Java OpendJDK
+### Instalar Java OpendJDK
 Actualizar el repositorio de paquetes del SO:
 
 ```
